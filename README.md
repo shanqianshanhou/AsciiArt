@@ -2,7 +2,9 @@
 
 > Free online ASCII ART art generator — turn any photo into text art in your browser
 
-![ASCII ART](https://asciiart.app)
+[![ASCII ART](./Preview.png)](https://asciiart.app)
+
+Site: https://asciiart.app/
 
 ## Features
 
