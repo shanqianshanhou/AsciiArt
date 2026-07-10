@@ -1,6 +1,6 @@
 # ASCII ART
 
-> Free online ASCII ART art generator — turn any photo into text art in your browser
+> Free ASCII art generator. Turn any photo, text or video into ASCII art, pixel art, glitch or mosaic — runs entirely in your browser, no signup, no upload.
 
 [![ASCII ART](./Preview.png)](https://asciiart.app)
 
