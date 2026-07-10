@@ -99,7 +99,7 @@ src/
 
 Copy `.env.example` to `.env.development` and set:
 
-- `VITE_APP_URL` — Your domain (default: https://asciiart.app)
+- `VITE_APP_URL` — Your domain (default: https://asciiart.app/)
 - `VITE_APP_NAME` — App name (default: ASCII ART)
 - `DATABASE_URL` — Database connection (default: SQLite)
 
